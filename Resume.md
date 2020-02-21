@@ -23,19 +23,7 @@ class: "my_resume_1"
      </div>
  </center>
 
-## <img src= "assets/paper-icon.svg" width ="30px"> OBJECTIVE
-
-- To find an internship opportunity in Google in Beijing
-- Able to commit 5 days/week, during the summer
-- 2nd year student in Beijing Jiaotong University, experienced in basic program design
-
-## <img src="assets/tools-solid.svg" width="30px"> IT SKILLS
-
-- Computer Languages: C, Java, Python;
-- Development Software: VS Code, IDEA;
-- Editing Software: Word, Typora, Excel, PowerPoint
-
-## <img src="assets/graduation-cap-solid.svg" width="40px"> EDUCATION
+## EDUCATION
 
 ##### Beijing Jiaotong University _Sep 2018 - Present_
 
@@ -45,7 +33,19 @@ class: "my_resume_1"
 - Honors/Awards: The Third Prize Scholarship (Top 25%)
 - Relevant Courses: Programming Design in C, Programming Design in Java
 
-## <img src="assets/project-diagram-solid.svg" width="32px"> PROJECT EXPERIENCE
+## OBJECTIVE
+
+- To find an internship opportunity in Google in Beijing
+- Able to commit 5 days/week, during the summer
+- 2nd year student in Beijing Jiaotong University, experienced in basic program design
+
+## IT SKILLS
+
+- Computer Languages: C, Java, Python;
+- Development Software: VS Code, IDEA;
+- Editing Software: Word, Typora, Excel, PowerPoint
+
+## PROJECT EXPERIENCE
 
 ##### Reconfigurable Modular Robots Design _Dec 2019 - Present_
 
@@ -69,7 +69,7 @@ class: "my_resume_1"
 - Co-organized 5 music concerts, the number of cumulative audiences outnumbered 10,000
 - Recruited eight new members and organized daily rehearsal
 
-## <img src="assets/of-interest-point-icon.svg" width="42px"> LANGUAGES & INTERESTS
+## LANGUAGES & INTERESTS
 
 - Languages: English (IELTS 7.0), Mandarin Chinese (Native)
 - Interests: Violin (Gr. 9), Basketball, Video Games

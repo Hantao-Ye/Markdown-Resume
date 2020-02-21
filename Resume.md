@@ -1,4 +1,8 @@
- @import "resume.css"
+---
+id: "resume"
+class: "my_resume_1"
+---
+
  <center>
      <h1>Hantao Ye (Tony)</h1>
      <div>
@@ -19,43 +23,53 @@
      </div>
  </center>
 
-## <img src= "assets/info-circle-solid.svg" width ="30px">OBJECTIVE
+## <img src= "assets/paper-icon.svg" width ="30px"> OBJECTIVE
 
+- To find an internship opportunity in Google in Beijing
+- Able to commit 5 days/week, during the summer
+- 2nd year student in Beijing Jiaotong University, experienced in basic program design
 
+## <img src="assets/tools-solid.svg" width="30px"> IT SKILLS
 
+- Computer Languages: C, Java, Python;
+- Development Software: VS Code, IDEA;
+- Editing Software: Word, Typora, Excel, PowerPoint
 
-## <img src="assets/graduation-cap-solid.svg" width="30px">EDUCATION
+## <img src="assets/graduation-cap-solid.svg" width="40px"> EDUCATION
 
-
-###### Beijing Jiaotong University _Sep 2018 - Present_
+##### Beijing Jiaotong University _Sep 2018 - Present_
 
 ###### _Candidate for Bachelor of Mechatronics_
 
-- GPA：3.34, AVG 83.9/100.0 (Top 11%)
+- AVG: 83.9/100.0 (Top 11%)
 - Honors/Awards: The Third Prize Scholarship (Top 25%)
+- Relevant Courses: Programming Design in C, Programming Design in Java
 
-## <img src="assets/project-diagram-solid.svg" width="30px">LEADERSHIP EXPERIENCE
+## <img src="assets/project-diagram-solid.svg" width="32px"> PROJECT EXPERIENCE
 
+##### Reconfigurable Modular Robots Design _Dec 2019 - Present_
 
+###### Research Assistant
 
-###### Beijing Jiaotong University Symphony Orchestra _Sep 2019 - Present_
+- Investigated the models of modular multi-stable mechanism
+- Analyzed and combined 32 papers of multistability structures for following research
+
+##### Fundamental Robots Design _Sep 2018 - Nov 2018_
+
+###### Leader
+
+- Designed and built a fischertechnik robot offering support for disaster relief, which implemented with the routine tracking
+
+## <img src="assets/organization.svg" width="32px"> LEADERSHIP EXPERIENCE
+
+##### Beijing Jiaotong University Symphony Orchestra _Sep 2019 - Present_
 
 ###### _Vice President_
 
-- Co-organized 5 music concerts
-- 
+- Co-organized 5 music concerts, the number of cumulative audiences outnumbered 10,000
+- Recruited eight new members and organized daily rehearsal
 
-## <img src="assets/tools-solid.svg" width="30px">SKILLS & INTERESTS
+## <img src="assets/of-interest-point-icon.svg" width="42px"> LANGUAGES & INTERESTS
 
-
-Languages:
-- Native Speaker of Chinese Mandarin
-- Get 7.0 Band on IELTS Test
-
-Skills:
-- ★★☆ Java
-- ★☆☆ C、Python
-
-Interests:
-- Violin (Gr.9)
-- Basketball
+- Languages: English (IELTS 7.0), Mandarin Chinese (Native)
+- Interests: Violin (Gr. 9), Basketball, Video Games

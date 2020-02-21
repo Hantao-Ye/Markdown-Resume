@@ -49,14 +49,14 @@ class: "my_resume_1"
 
 ##### Reconfigurable Modular Robots Design _Dec 2019 - Present_
 
-###### Research Assistant
+###### _Research Assistant_
 
 - Investigated the models of modular multi-stable mechanism
 - Analyzed and combined 32 papers of multistability structures for following research
 
 ##### Fundamental Robots Design _Sep 2018 - Nov 2018_
 
-###### Leader
+###### _Leader_
 
 - Designed and built a fischertechnik robot offering support for disaster relief, which implemented with the routine tracking
 

@@ -4,7 +4,7 @@ class: "my_resume_1"
 ---
 
  <center>
-     <h1>Hantao Ye (Tony)</h1>
+     <h1>Hantao Ye (叶翰韬)</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -60,7 +60,7 @@ class: "my_resume_1"
 
 - Designed and built a fischertechnik robot offering support for disaster relief, which implemented with the routine tracking
 
-## <img src="assets/organization.svg" width="32px"> LEADERSHIP EXPERIENCE
+## LEADERSHIP EXPERIENCE
 
 ##### Beijing Jiaotong University Symphony Orchestra _Sep 2019 - Present_
 
